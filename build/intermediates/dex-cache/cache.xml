@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_aa554f690ad186690fece12bf0e94f06c920ebc6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="faec1d7b1b59a64d53fa983467362cfdca161710">
+        <dex dex="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_66b4692f740b369d1fed3c9253aac96aea65e4a8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_12153888bf6d45aa930e1ff9bf78b9038b002bd5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_291acd9d35c7f34c7aaa3e5634203e1713b89afe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_9b5d165f182d433040425822b67f145367e17fff/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_1ad1f59492161268791e0815c40301e130af5ffa/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_4eb6d0bf511ddf45f8e2784f1c023c12875c87ec/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_dc4f784f3dcde4369a2e19dccd929bdee26a3005/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_35f941a771f9b013466ed6b3d62437ab9aeb7a84/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_d825c1d6f979a603f37835cf5ee247b381a374a0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_90ab0b188fbbb3ad42609b2e134a17692de267eb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_7da00f7ba2aca6410892e4608b89179af63fc8a5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="aa9aee9cc38dc8e17ec037c37604833525f93c2b">
+        <dex dex="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2c576dafcb3b271e9c4e6c0b010228c99749ba23/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jee/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_046d957017ff1ed48c55b1928356d88ad820d457/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_6adadf23854f95967405818d1dda1045fce3f722/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_a2db21779ddb6ec6d46db7173cc1a6960431a738/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/Jee/Google 드라이브/Project/2016GJ/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_45f41687cb6def66adfc66815e442f201a7bbba7/classes.dex" />
+    </item>
+
+</items>
