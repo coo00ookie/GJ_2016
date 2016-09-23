@@ -10,6 +10,6 @@ public class TestActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test);
         //sArOdiN
-        //ì§€ì œì´
+        //»ç·Îµò
     }
 }
