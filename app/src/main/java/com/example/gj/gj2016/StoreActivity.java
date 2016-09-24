@@ -29,7 +29,7 @@ public class StoreActivity extends AppCompatActivity {
         bhc.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(StoreActivity.this, MenuActivity.class);
+                Intent intent = new Intent(StoreActivity.this, ChoiceActivity.class);
                 startActivity(intent);
             }
         });

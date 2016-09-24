@@ -7,5 +7,11 @@
     <string name="title_activity_team">TeamActivity</string>
     <string name="title_activity_store">StoreActivity</string>
     <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_check">CheckActivity</string>
+    <string name="title_activity_bump">BumpActivity</string>
+    <string name="title_activity_bump2">Bump2Activity</string>
+    <string name="title_activity_pay">PayActivity</string>
+    <string name="title_activity_samsung3">Samsung3Activity</string>
+    <string name="title_activity_choice">ChoiceActivity</string>
 
-</resources> 
+</resources>

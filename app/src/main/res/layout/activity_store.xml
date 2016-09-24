@@ -5,8 +5,8 @@
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/imageView"
+        android:layout_height="884dp"
+        android:id="@+id/store"
         android:background="@mipmap/store"
         android:layout_weight="0.76" />
 
@@ -17,7 +17,7 @@
         android:background="@mipmap/icn_back"
         android:layout_weight="0.76"
         android:layout_x="20dp"
-        android:layout_y="41.5dp"/>
+        android:layout_y="17.5dp"/>
 
     <ImageView
         android:layout_width="347.5dp"
