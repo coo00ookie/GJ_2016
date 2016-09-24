@@ -1,0 +1,42 @@
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.gj.gj2016.TeamActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/imageView"
+        android:background="@mipmap/teambg"
+        android:layout_weight="0.76"
+        android:layout_x="0dp"
+        android:layout_y="0dp"/>
+
+    <ImageView
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:id="@+id/back"
+        android:background="@mipmap/icn_back"
+        android:layout_weight="0.76"
+        android:layout_x="20dp"
+        android:layout_y="41.5dp"/>
+
+    <ImageView
+        android:layout_width="204dp"
+        android:layout_height="441.8dp"
+        android:id="@+id/samsung"
+        android:background="@mipmap/samsung"
+        android:layout_weight="0.76"
+        android:layout_x="0dp"
+        android:layout_y="198.3dp"/>
+
+    <ImageView
+        android:layout_width="206.3dp"
+        android:layout_height="441.8dp"
+        android:id="@+id/lotte"
+        android:background="@mipmap/lotte"
+        android:layout_weight="0.76"
+        android:layout_x="153.8dp"
+        android:layout_y="198.3dp"/>
+
+</AbsoluteLayout>

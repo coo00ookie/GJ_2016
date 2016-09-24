@@ -1,0 +1,31 @@
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.gj.gj2016.StoreActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:background="@mipmap/store"
+        android:layout_weight="0.76" />
+
+    <ImageView
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:id="@+id/back"
+        android:background="@mipmap/icn_back"
+        android:layout_weight="0.76"
+        android:layout_x="20dp"
+        android:layout_y="41.5dp"/>
+
+    <ImageView
+        android:layout_width="347.5dp"
+        android:layout_height="100dp"
+        android:id="@+id/bhc"
+        android:background="@mipmap/bhc"
+        android:layout_weight="0.76"
+        android:layout_x="12.5dp"
+        android:layout_y="198.3dp"/>
+
+</AbsoluteLayout>
