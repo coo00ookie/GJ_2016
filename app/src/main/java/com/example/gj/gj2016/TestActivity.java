@@ -17,7 +17,7 @@ public class TestActivity extends AppCompatActivity {
         test_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(TestActivity.this, SamsungPay.class);
+                Intent intent = new Intent(TestActivity.this, TeamActivity.class);
                 startActivity(intent);
             }
         });
