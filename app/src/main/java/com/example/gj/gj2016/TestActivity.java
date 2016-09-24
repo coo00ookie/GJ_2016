@@ -50,7 +50,6 @@ public class TestActivity extends AppCompatActivity {
                                break;
                            }
                            if(x <= event.getX()) {
-
                                flipper.setInAnimation(showIn);
                                flipper.setOutAnimation(showOut);
                                flipper.showPrevious();
