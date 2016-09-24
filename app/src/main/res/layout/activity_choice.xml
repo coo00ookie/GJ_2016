@@ -1,0 +1,30 @@
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.gj.gj2016.ChoiceActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="978dp"
+        android:id="@+id/store"
+        android:background="@mipmap/choice"
+        android:layout_weight="0.76" />
+
+    <ImageView
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:id="@+id/back"
+        android:background="@mipmap/icn_back"
+        android:layout_weight="0.76"
+        android:layout_x="20dp"
+        android:layout_y="17.5dp"/>
+
+    <ImageView
+        android:layout_width="360dp"
+        android:layout_height="100.8dp"
+        android:id="@+id/ssf"
+        android:background="@mipmap/ssf"
+        android:layout_weight="0.76"
+        android:layout_x="0dp"
+        android:layout_y="184.3dp"/>
+</AbsoluteLayout>

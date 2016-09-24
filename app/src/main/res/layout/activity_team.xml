@@ -6,7 +6,7 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/imageView"
+        android:id="@+id/teambg"
         android:background="@mipmap/teambg"
         android:layout_weight="0.76"
         android:layout_x="0dp"
@@ -19,7 +19,7 @@
         android:background="@mipmap/icn_back"
         android:layout_weight="0.76"
         android:layout_x="20dp"
-        android:layout_y="41.5dp"/>
+        android:layout_y="17.5dp"/>
 
     <ImageView
         android:layout_width="204dp"

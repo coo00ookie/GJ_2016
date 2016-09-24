@@ -1,11 +1,31 @@
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
     android:layout_height="match_parent"  tools:context="com.example.gj.gj2016.MenuActivity">
 
     <ImageView
-        android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:id="@+id/imageView"
-    android:background="@mipmap/test"
-    android:layout_weight="0.76" />
-</RelativeLayout>
+        android:layout_width="360dp"
+        android:layout_height="616dp"
+        android:id="@+id/menus"
+        android:background="@mipmap/menus"
+        android:layout_weight="0.76"
+        android:layout_x="0dp"
+        android:layout_y="0dp" />
+
+    <ImageView
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:id="@+id/back"
+        android:background="@mipmap/icn_back"
+        android:layout_weight="0.76"
+        android:layout_x="20dp"
+        android:layout_y="17.5dp"/>
+
+    <ImageView
+        android:layout_width="127.5dp"
+        android:layout_height="35dp"
+        android:id="@+id/btnorder"
+        android:background="@mipmap/btnorder"
+        android:layout_weight="0.76"
+        android:layout_x="212.5dp"
+        android:layout_y="555dp"/>
+</AbsoluteLayout>
