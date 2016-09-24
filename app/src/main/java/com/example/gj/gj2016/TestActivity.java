@@ -7,6 +7,8 @@ public class TestActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        getMatchInformation getter = new getMatchInformation();
+        getter.parseData("A", "B");
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test);
         //sArOdiN
