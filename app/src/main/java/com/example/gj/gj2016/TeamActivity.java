@@ -22,7 +22,6 @@ public class TeamActivity extends AppCompatActivity {
         img_bck.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(TeamActivity.this, TestActivity.class);
                 finish();
             }
         });
