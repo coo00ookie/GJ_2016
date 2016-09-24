@@ -20,11 +20,12 @@ public class TestActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         getMatchInformation getter = new getMatchInformation();
+
         getter.parseData("A", "B");
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test);
-        showIn= AnimationUtils.loadAnimation(this, android.R.anim.slide_in_left);
-        showOut= AnimationUtils.loadAnimation(this, android.R.anim.slide_out_right);
+        showIn= AnimationUtils.loadAnimation(this, android.R.anim.fade_in);
+        showOut= AnimationUtils.loadAnimation(this, android.R.anim.fade_out);
 
 
         curIdx = 0;
@@ -49,15 +50,16 @@ public class TestActivity extends AppCompatActivity {
                                break;
                            }
                            if(x <= event.getX()) {
+
                                flipper.setInAnimation(showIn);
-                                flipper.setOutAnimation(showOut);
+                               flipper.setOutAnimation(showOut);
                                flipper.showPrevious();
                                curIdx--;
                                if(curIdx <0) curIdx = 2;
                            }
                            else if(x > event.getX()) {
                                flipper.setInAnimation(showIn);
-                                flipper.setOutAnimation(showOut);
+                               flipper.setOutAnimation(showOut);
                                flipper.showNext();
                                curIdx++;
                                if(curIdx >2) curIdx = 0;
